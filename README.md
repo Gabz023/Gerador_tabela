@@ -1,8 +1,3 @@
-# Gerador de tabela
- Gera rapidamente uma tabela para testes de programas que usam banco de dados
-
----
-
 # Ferramenta de Automação de Banco de Dados
 
 Para vários projetos que já precisei desenvolver e que necessitavam de banco de dados, criar um banco do zero era sempre uma tarefa **monótona** e que tomava **muito tempo**.  
